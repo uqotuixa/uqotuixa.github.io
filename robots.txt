@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqotuixa.github.io/AFX/sitemap_index.txt
+Sitemap: https://uqotuixa.github.io/RrL/sitemap_index.txt
+Sitemap: https://uqotuixa.github.io/eXp/sitemap_index.txt
+Sitemap: https://uqotuixa.github.io/rWo/sitemap_index.txt
